@@ -58,10 +58,12 @@ Another School Management System build with laravel and PHP 7.
 **Any query contact [dev@hrshadhin.me](mailto:dev@hrshadhin.me)**
 
 **Demo(Enterprise Edition)**\
-website url: http://cloudschoolbd.com \
-app login: http://cloudschoolbd.com/login \
+website url: http://ee.cloudschoolbd.com \
+app login: http://ee.cloudschoolbd.com/login \
 username: admin\
 password: demo123
+username: superadmin\
+password: super99
 
 # Screenshot
 <img src="./screenshot/ee/dashboard.png" >
