@@ -131,14 +131,14 @@ username: admin\
 password: demo123
 
 **Demo(Community Edition)**\
-website url: http://sms.hrshadhin.me \
-app login: http://sms.hrshadhin.me/login \
+website url: http://ce.cloudschoolbd.come \
+app login: http://ce.cloudschoolbd.com/login \
 username: admin\
 password: demo123
 
 **Demo(Enterprise Edition)**\
-website url: http://cloudschoolbd.com \
-app login: http://cloudschoolbd.com/login \
+website url: http://ee.cloudschoolbd.com \
+app login: http://ee.cloudschoolbd.com/login \
 username: admin\
 password: demo123\
 username: superadmin\
